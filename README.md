@@ -17,6 +17,7 @@
 
 ### 📚 Активно изучаю
 
+![Math](https://img.shields.io/badge/MATH-2E8B57?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0wIDBoMjB2MjBIMHoiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE0IDJINGw1IDhsLTUgOGgxMnYtNGgtMnYySDguMjVMMTIgMTBsLTMuNzUtNkgxNHYyaDJWMnoiLz48L3N2Zz4=)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
