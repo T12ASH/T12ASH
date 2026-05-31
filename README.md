@@ -32,12 +32,3 @@
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=intel&logoColor=white)
 
 ---
-
-### 🎮 Мои интересы
-
-*   💻 **Системное программирование** — C/C++, память, компиляторы
-*   🎨 **Компьютерная графика** — OpenGL, в перспективе Vulkan
-*   🕹️ **Игровые движки** — хочу разобраться в Unreal Engine 5
-*   🐧 **Linux** — осваиваю окружение и инструменты разработки
-
----
