@@ -12,8 +12,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMHYxMS40MDhoMTEuNDA4VjBIMHptMTIuNTkyIDB2MTEuNDA4SDI0VjBIMTIuNTkyek0wIDEyLjU5MlYyNGgxMS40MDhWMTIuNTkySDB6bTEyLjU5MiAwdjExLjQwOEgyNFYxMi41OTJIMTIuNTkyeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/💩_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 📚 Активно изучаю
 
