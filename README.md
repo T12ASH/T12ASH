@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/💩_Windows-8B8000?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/💩_Windows-4A412A?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 📚 Активно изучаю
 
